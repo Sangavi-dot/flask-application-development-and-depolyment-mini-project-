@@ -1,2 +1,2 @@
-# flask-application-development-and-depolyment-mini-project-
-Arttifai Tech-Full stack development mini task 2
+# Flask CRUD App
+A simple Flask CRUD app with user authentication, deployed on Heroku.
